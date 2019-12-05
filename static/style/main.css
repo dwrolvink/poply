@@ -1,0 +1,22 @@
+h1 {
+	font-size:14pt;
+	color: blue;
+}
+
+.block {
+	padding:10px;
+	border: 1px solid #ddd;
+	margin:10px;
+}
+.post {
+	padding: 10px;
+	border: 1px solid black;
+}
+.reply {
+	padding: 10px;
+	border-left: 5px solid #ddd;
+}
+
+.user {
+	color: grey;
+}
